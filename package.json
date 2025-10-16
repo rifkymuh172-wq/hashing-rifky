@@ -1,0 +1,14 @@
+{
+  "name": "secure-hash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "secure-hash.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muh. Rifky",
+  "license": "ISC"
+}
+
